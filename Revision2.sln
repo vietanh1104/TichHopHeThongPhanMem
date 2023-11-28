@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTH8", "BaiTH8\BaiTH8.csproj", "{CA9EC462-493E-4089-B0CC-D20D5E0DD6F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "De3", "De3\De3.csproj", "{C56FDD54-C1E4-4018-A0DD-4C78DB0738CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CA9EC462-493E-4089-B0CC-D20D5E0DD6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA9EC462-493E-4089-B0CC-D20D5E0DD6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA9EC462-493E-4089-B0CC-D20D5E0DD6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C56FDD54-C1E4-4018-A0DD-4C78DB0738CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56FDD54-C1E4-4018-A0DD-4C78DB0738CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56FDD54-C1E4-4018-A0DD-4C78DB0738CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56FDD54-C1E4-4018-A0DD-4C78DB0738CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
